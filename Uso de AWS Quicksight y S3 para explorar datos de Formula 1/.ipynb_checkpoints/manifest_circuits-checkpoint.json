@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://capstone9.datosf1.sergio.saez/circuits/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV"
+    }
+}
